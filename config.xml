@@ -7,11 +7,14 @@
 <name>My first app</name>
 
 <description>
-A simple PhoneGap Build application.
+my first app
 </description>
 
+<icon src="icons/icon.png" />
+<gap:splash src="icons/Loading.png" />
+
 <author href="https://example.com" email="you@example.com">
-Your Name
+Qasmaoui youssef
 </author>
 
 </widget>
