@@ -10,8 +10,8 @@
 my first app
 </description>
 
-<icon src="icons/icon.png" />
-<gap:splash src="icons/Loading.png" />
+<icon src="icons/hdpi/icon.png" />
+<gap:splash src="icons/hdpi/Loading.png" />
 
 <author href="https://example.com" email="you@example.com">
 Qasmaoui youssef
